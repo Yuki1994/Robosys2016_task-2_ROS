@@ -27,5 +27,5 @@ movie: Youtube
 ####(last reading: 2017/02/08)
 
 ##License
-his repository is licensed under the MIT license, see LICENSE.  
+This repository is licensed under the MIT license, see LICENSE.  
 Unless attributed otherwise, everything is under the MIT license.

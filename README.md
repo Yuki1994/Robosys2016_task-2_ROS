@@ -6,7 +6,7 @@ This is the repository for the lecture RobotSystemEngineering’s task#2 in CIT.
 Two ROS node python programs are included in this repository.  
 ・count.py(count number within -70~70)  
 ・servo.py(servo sweeping with angle count.py's counting number)  
-Control Raspberry Pi 3 from note PC using SSH.  
+Control Raspberry Pi 3 from note PC using SSH.  
 Servo motor → GPIO18  
 
 ##Reference
